@@ -1,0 +1,82 @@
+[
+  {
+    "patterns": ["^(hi|hey|hello|yo|sup|howdy|ciao)\\b", "greetings"],
+    "answer": "Hey 👋 I'm Pierpaolo. Ask me anything — try \"what's your tech stack?\", \"are you available for work?\", or \"how do I reach you?\"."
+  },
+  {
+    "patterns": ["who are you", "tell me about yourself", "introduce yourself", "^about you"],
+    "answer": "I'm Pierpaolo Wurzburger, a Full-Stack Web Developer based in Naples, Italy. I fell in love with computers at 12 (Windows XP, the family PC) and never looked back. I design and build scalable software solutions — from landing pages to e-commerce platforms — helping businesses and professionals level up their digital presence."
+  },
+  {
+    "patterns": ["background", "experience", "history", "career", "how long have you", "how did you start"],
+    "answer": "Born in Naples in 1991. Got hooked on computing at age 12 with Windows XP. Over the years I went from tinkering to building real projects for real clients. These days I focus on full-stack web development with an emphasis on performance, accessibility, and SEO — always keeping clients involved through an Agile process."
+  },
+  {
+    "patterns": ["tech stack", "what tools", "what do you use", "what do you build with", "stack\\?", "tools you use", "what technologies"],
+    "answer": "HTML5, CSS3, JavaScript, Vue.js, PHP, Laravel, SQL/MySQL, Git, WordPress, and everything around SEO, performance optimization, and accessibility. I pick the right tool for the job — sometimes it's a custom Laravel app, sometimes it's a finely-tuned WordPress site."
+  },
+  {
+    "patterns": ["skills", "what can you do", "what are you good at", "services"],
+    "answer": "Landing pages, e-commerce, blogs, WordPress sites, SEO optimization, performance & accessibility audits, and full-stack custom web apps. I also provide ongoing assistance — you'll always know where your project stands."
+  },
+  {
+    "patterns": ["vue", "vue\\.?js", "nuxt"],
+    "answer": "Vue.js is one of my go-to frameworks for interactive front-ends. I use the Composition API with modern tooling. It's clean, performant, and a joy to work with."
+  },
+  {
+    "patterns": ["php", "laravel"],
+    "answer": "PHP and Laravel are my backend staples. I've built rental management apps, custom CMS solutions, and API-driven backends with them. Solid, battle-tested, and great for projects that need real server-side logic."
+  },
+  {
+    "patterns": ["wordpress"],
+    "answer": "I work with WordPress daily — from setting up existing installs to building custom themes and blogs from scratch. I make sure everything is optimized for performance, SEO, and accessibility. You'll also be fully autonomous in managing your content after delivery."
+  },
+  {
+    "patterns": ["ecommerce", "e-commerce", "shop", "online store", "woocommerce"],
+    "answer": "E-commerce is where local businesses go global. I build online stores that are fast, accessible, and optimized for conversions. Whether it's WooCommerce or a custom solution, I handle the full pipeline."
+  },
+  {
+    "patterns": ["seo", "search engine", "google", "ranking"],
+    "answer": "I aim for a perfect 100 on PageSpeed Insights and apply all SEO best practices so your site gets indexed properly by Google. It's not just about keywords — it's about structure, performance, and accessibility working together."
+  },
+  {
+    "patterns": ["available", "hire", "work with you", "freelance", "consulting", "open to work", "collaborat"],
+    "answer": "I take on selective projects — especially around web development, SEO, and e-commerce. Send a brief description of what you need to info@themillennials.it and I'll let you know if it's a fit."
+  },
+  {
+    "patterns": ["rate", "price", "pricing", "cost", "how much", "fee", "budget"],
+    "answer": "It depends on the scope. Send me a quick description of what you're trying to build at info@themillennials.it and I'll come back with a number. I believe in transparent pricing and keeping you involved at every step."
+  },
+  {
+    "patterns": ["where", "location", "based", "from", "country", "naples", "italy"],
+    "answer": "Naples, Italy — born and raised. I work remotely and collaborate with clients across time zones. The espresso here is unbeatable, by the way."
+  },
+  {
+    "patterns": ["contact", "email", "reach", "get in touch", "talk to you", "dm"],
+    "answer": "Best route is email: info@themillennials.it. You can also find me on GitHub (github.com/PierW), YouTube (youtube.com/@PierDev), X (@PierpaoloW), or LinkedIn."
+  },
+  {
+    "patterns": ["youtube", "channel", "videos\\?", "subscribe"],
+    "answer": "My YouTube channel is @PierDev — I share tutorials and insights around web development. Check it out at youtube.com/@PierDev."
+  },
+  {
+    "patterns": ["github", "open source", "repos?", "repositories?"],
+    "answer": "All my public work is at github.com/PierW. You'll find projects like boolzapp (WhatsApp replica), boolflix (Netflix replica), and BoolBnB (rental management app) among others."
+  },
+  {
+    "patterns": ["working on", "current project", "right now", "these days", "lately", "what's new"],
+    "answer": "Currently building something top secret from home. I'll share details when the time is right — stay tuned."
+  },
+  {
+    "patterns": ["how to learn", "where to start", "beginner", "advice", "tips"],
+    "answer": "Start by building something small end-to-end. Pick one technology — HTML/CSS/JS is the perfect foundation — and make a real page. Don't just watch tutorials; build, break, fix, repeat. And never stop being curious."
+  },
+  {
+    "patterns": ["fun fact", "hobby", "hobbies", "outside work", "free time", "favorite", "favourite"],
+    "answer": "I still remember the sound of the Windows XP startup like it was yesterday. Outside the laptop: Naples, good food, and the occasional retro gaming session."
+  },
+  {
+    "patterns": ["testimonial", "review", "client", "feedback", "what do people say"],
+    "answer": "Clients consistently mention two things: transparency and results. Ilenia (Brown Cafè) called me \"professional and always available.\" Luisa said she's now fully autonomous managing her blog content. Gigi (Trivio Bistrot) switched to me after a bad agency experience and hasn't looked back."
+  }
+]

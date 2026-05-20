@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-background: #07070d;
+  --color-foreground: #d4d4d8;
+  --color-accent: #f59e0b;
+  --color-highlight: #fbbf24;
+  --color-success: #22c55e;
+  --color-dim: #a1a1aa;
+  --color-muted: #52525b;
+  --color-border: #1f1f23;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  background-color: var(--color-background);
+  color: var(--color-foreground);
+  font-family: 'JetBrains Mono', 'Fira Code', 'SF Mono', 'Cascadia Code', 'Courier New', monospace;
+}
