@@ -78,7 +78,7 @@ const socialSVGs = socialLinks.map((l) =>
 export const heroContent = `<div class="flex flex-col sm:flex-row gap-6 items-start">
   <div class="flex flex-col items-center shrink-0">
     <div class="relative w-52 h-52 rounded-full border-2 border-accent shadow-[0_0_80px_-15px_rgba(245,158,11,0.55)] overflow-hidden">
-      <img src="/me.jpg" alt="Pierpaolo Wurzburger" class="w-full h-full object-cover" />
+      <img src="${import.meta.env.BASE_URL}me.jpg" alt="Pierpaolo Wurzburger" class="w-full h-full object-cover" />
     </div>
     <span class="text-muted text-xs mt-2 font-mono">me.jpg</span>
   </div>
